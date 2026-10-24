@@ -26,6 +26,22 @@ Gosto de explorar novas ideias, aprender tecnologias e descobrir como a programa
 
 Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada vez. 🚀
 
+
+## Atividade no GitHub
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hellyneandrade&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&locale=pt-br"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyneandrade&layout=donut&langs_count=6&theme=radical&hide_border=true"
+    height="180"
+    alt="Distribuição das linguagens de programação"
+  />
+</div>
+
 ##  Mundos que estou explorando
 
 -  Desenvolvimento de software
