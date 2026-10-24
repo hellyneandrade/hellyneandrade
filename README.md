@@ -5,7 +5,7 @@
        width="100%">
 </div>
 
-# ✦ Lyne's Space Station ✦
+# ✦ Estação Espacial de Hellyne ✦
 
 ### Explorando o universo, uma linha de código por vez.
 
@@ -27,11 +27,11 @@ Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada ve
 
 ## 🪐 Mundos que estou explorando
 
-- 💻 Desenvolvimento de software
-- 🤖 Inteligência Artificial
-- 📊 Análise de dados e bancos de dados
-- 🛡️ Cibersegurança
-- ⛏️ Tecnologia aplicada à mineração
+-  Desenvolvimento de software
+-  Inteligência Artificial
+-  Análise de dados e bancos de dados
+-  Cibersegurança
+-  Tecnologia aplicada à mineração
 
 ## 🛠️ Meu arsenal tecnológico
 
@@ -44,15 +44,15 @@ Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada ve
 
 ## 🚀 Diário de bordo
 
-📚 Aprendendo continuamente.
+Aprendendo continuamente.
 
-💡 Transformando ideias em projetos.
+ Transformando ideias em projetos.
 
-🌱 Construindo minha trajetória como desenvolvedora.
+Construindo minha trajetória como desenvolvedora.
 
 ## ✨ Objetivo da missão
 
-Unir tecnologia, ciência e criatividade para desenvolver soluções e explorar possibilidades que vão além do óbvio.
+Unir tecnologia, ciência, criatividade e engenharia para desenvolver soluções e explorar possibilidades que vão além do óbvio.
 
 <div align="center">
 
