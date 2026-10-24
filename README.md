@@ -83,7 +83,8 @@ Unir tecnologia, ciência, criatividade e engenharia para desenvolver soluções
 
 <div align="center">
 
-*O universo é vasto. Sempre há algo novo para descobrir.* 🌠
+*“A imaginação é a faculdade descobridora… ela penetra nos mundos invisíveis ao nosso redor, os mundos da Ciência.”* 🌠
+- Ada Lovelace
 
 </div>
 
