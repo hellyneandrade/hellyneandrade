@@ -17,7 +17,7 @@
 
 ---
 
-## 🌌 Sobre mim
+##  Sobre mim
 
 Olá! Sou estudante de **Ciência da Computação na UNICAP** e **Engenharia de Minas na UFPE**.
 
@@ -25,7 +25,7 @@ Gosto de explorar novas ideias, aprender tecnologias e descobrir como a programa
 
 Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada vez. 🚀
 
-## 🪐 Mundos que estou explorando
+##  Mundos que estou explorando
 
 -  Desenvolvimento de software
 -  Inteligência Artificial
@@ -33,7 +33,7 @@ Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada ve
 -  Cibersegurança
 -  Tecnologia aplicada à mineração
 
-## 🛠️ Meu arsenal tecnológico
+##  Meu arsenal tecnológico
 
 ![Python](https://img.shields.io/badge/Python-1B1B3A?style=flat-square&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/C-1B1B3A?style=flat-square&logo=c&logoColor=A8B9CC)
@@ -42,7 +42,7 @@ Atualmente, estou construindo minha jornada na tecnologia, um projeto de cada ve
 ![Git](https://img.shields.io/badge/Git-1B1B3A?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1B1B3A?style=flat-square&logo=github&logoColor=FFFFFF)
 
-## 🚀 Diário de bordo
+## Diário de bordo
 
 Aprendendo continuamente.
 
@@ -50,7 +50,7 @@ Aprendendo continuamente.
 
 Construindo minha trajetória como desenvolvedora.
 
-## ✨ Objetivo da missão
+## Objetivo da missão
 
 Unir tecnologia, ciência, criatividade e engenharia para desenvolver soluções e explorar possibilidades que vão além do óbvio.
 
