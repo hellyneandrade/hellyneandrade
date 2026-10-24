@@ -2,6 +2,7 @@
   <img
     src="assets/space-station.svg"
     width="100%"
+    alt="Estação espacial animada da Lyne"
   />
 </div>
 
