@@ -51,6 +51,16 @@ Aprendendo continuamente.
 
 Construindo minha trajetória como desenvolvedora.
 
+<h3 align="center">📡 GitHub Activity</h3>
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/8b5cf6/hellyneandrade"
+    alt="Calendário de contribuições do GitHub"
+    width="100%"
+  />
+</div>
+
 ## Objetivo da missão
 
 Unir tecnologia, ciência, criatividade e engenharia para desenvolver soluções e explorar possibilidades que vão além do óbvio.
