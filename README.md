@@ -86,3 +86,11 @@ Unir tecnologia, ciência, criatividade e engenharia para desenvolver soluções
 *O universo é vasto. Sempre há algo novo para descobrir.* 🌠
 
 </div>
+
+<div align="center">
+  <img
+    src="assets/mission-control.svg"
+    width="100%"
+    alt="Interface futurista de controle da missão"
+  />
+</div>
