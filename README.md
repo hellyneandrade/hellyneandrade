@@ -1,7 +1,9 @@
 
 <div align="center">
-
-<img src="assets/space-banner.png" width="100%" alt="Minha estação espacial em pixel art"/>
+  <img src="assets/Explorando o Universo em Pixel Art.png"
+       alt="Minha estação espacial em pixel art"
+       width="100%">
+</div>
 
 # ✦ Lyne's Space Station ✦
 
