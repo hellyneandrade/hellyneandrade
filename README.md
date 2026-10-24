@@ -1,8 +1,9 @@
-
 <div align="center">
-  <img src="assets/Explorando o Universo em Pixel Art.png"
-       alt="Minha estação espacial em pixel art"
-       width="100%">
+  <img
+    src="assets/space-station.svg"
+    width="100%"
+    alt="Estação espacial animada da Lyne"
+  />
 </div>
 
 # ✦ Estação Espacial de Hellyne ✦
